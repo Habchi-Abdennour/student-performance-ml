@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Performance Prediction (Multiple Linear Regression)
 
 This project is a beginner-friendly machine learning exercise based on a Kaggle dataset.  
