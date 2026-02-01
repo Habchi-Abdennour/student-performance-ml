@@ -100,4 +100,3 @@ This project is for **learning and practice**, focusing on:
 =======
 # student-performance-ml
 End-to-end machine learning project using multiple linear regression to predict student performance. Includes data preprocessing, feature scaling, model evaluation, and residual analysis using a Kaggle dataset.
->>>>>>> f34e790f16b839fadb9fb0961e2966ea31bca414
